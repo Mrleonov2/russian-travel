@@ -19,6 +19,9 @@
 @import url('../Blocks/intro/__title/intro__title.css');
 @import url('../Blocks/intro/__text/intro__text.css');
 @import url('../Blocks/intro/__list/intro__list.css');
-@import url('../Blocks/photo-places/photo-places.css');
 
+
+/*
+@import url('../Blocks/photo-places/photo-places.css');
+*/
 @import url('../fonts/InterWeb/inter.css')
