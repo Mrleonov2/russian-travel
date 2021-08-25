@@ -1,4 +1,1 @@
-@font-face {
-  font-family: 'Inter';
-  src: url('./fonts/Inter-3.19.zip');
-}
+@import url('../fonts/InterWeb/inter.css')

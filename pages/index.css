@@ -1,1 +1,24 @@
-@import url();
+@import url('../vendor/normalize.css');
+@import url('../Blocks/page/page.css');
+@import url('../Blocks/root/root.css');
+@import url('../Blocks/root/__section__header/root__section_header.css');
+@import url('../Blocks/root/__section/root__section.css');
+@import url('../Blocks/root/__section_margins_top-bottom/root__section_margins_top-bottom.css');
+@import url('../Blocks/header/header.css');
+@import url('../Blocks/header/__logo/header__logo.css');
+@import url('../Blocks/header/__lang-link/header__lang-link.css');
+@import url('../Blocks/header/__lang-links/header__lang-links.css');
+@import url('../Blocks/lead/lead.css');
+@import url('../Blocks/lead/__title/lead__title.css');
+@import url('../Blocks/lead/__subtitle/lead__subtitle.css');
+@import url('../Blocks/lead/__image/lead__image.css');
+@import url('../Blocks/lead/__image-caption/lead__image-caption.css');
+@import url('../Blocks/photo-grid/photo-grid.css');
+@import url('../Blocks/photo-grid/__item/photo-grid__item.css');
+@import url('../Blocks/intro/intro.css');
+@import url('../Blocks/intro/__title/intro__title.css');
+@import url('../Blocks/intro/__text/intro__text.css');
+@import url('../Blocks/intro/__list/intro__list.css');
+@import url('../Blocks/photo-places/photo-places.css');
+
+@import url('../fonts/InterWeb/inter.css')
