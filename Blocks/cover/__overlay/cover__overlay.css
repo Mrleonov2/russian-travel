@@ -1,3 +1,16 @@
 .cover__overlay{
-height: 100%;
+  display: block;
+  width: 100%;
+  min-height: 63vw;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  box-sizing: border-box;
+  color: white;
+  text-decoration: none;
+}
+.cover__overlay:hover{
+background: rgb(43, 45, 48,.8)
 }
