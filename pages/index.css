@@ -1,13 +1,16 @@
 @import url('../vendor/normalize.css');
 @import url('../Blocks/page/page.css');
+@import url('../fonts/InterWeb/inter.css');
 @import url('../Blocks/root/root.css');
-@import url('../Blocks/root/__section/root__section.css');
-@import url('../Blocks/root/__section/root__section_header.css');
+@import url('../Blocks/root/__section/root__section_margin_auto.css');
+@import url('../Blocks/root/__section/root__section_header_metric.css');
 @import url('../Blocks/root/__section/root__section_margins_top-bottom.css');
 @import url('../Blocks/header/header.css');
 @import url('../Blocks/header/__logo/header__logo.css');
 @import url('../Blocks/header/__lang-link/header__lang-link.css');
 @import url('../Blocks/header/__lang-links/header__lang-links.css');
+@import url('../Blocks/header/__lang-link//_active/header__lang-link_active.css');
+@import url('../Blocks/content/content.css');
 @import url('../Blocks/lead/lead.css');
 @import url('../Blocks/lead/__title/lead__title.css');
 @import url('../Blocks/lead/__subtitle/lead__subtitle.css');
@@ -20,9 +23,7 @@
 @import url('../Blocks/root/__section/root__section_grid.css');
 @import url('../Blocks/photo-grid/photo-grid.css');
 @import url('../Blocks/photo-grid/__item/photo-grid__item.css');
-
-
-
+@import url('../Blocks/places/places.css');
 @import url('../Blocks/place/place.css');
 @import url('../Blocks/place/__title/place__title.css');
 @import url('../Blocks/place/__image/place__image.css');
@@ -30,20 +31,18 @@
 @import url('../Blocks/place/__url-heading/place__url-heading.css');
 @import url('../Blocks/place/__link/place__link.css');
 @import url('../Blocks/place/__article/place__article.css');
-
 @import url('../Blocks/cover/cover.css');
 @import url('../Blocks/cover/__background/cover__background.css');
 @import url('../Blocks/cover/__title/cover__title.css');
 @import url('../Blocks/cover/__subtitle/cover__subtitle.css');
 @import url('../Blocks/cover/__overlay/cover__overlay.css');
 @import url('../Blocks/footer/footer.css');
-@import url('../Blocks/root/__section/root__section_footer.css');
+@import url('../Blocks/root/__section/root__section_footer_metric.css');
 @import url('../Blocks/footer/__link/footer__link.css');
 @import url('../Blocks/footer/__links/footer__links.css');
 @import url('../Blocks/footer/__copyright/footer__copyright.css');
-
 @import url('../Blocks/device/__phone/device__phone.css');
 
-@import url('../fonts/InterWeb/inter.css');
+
 
 

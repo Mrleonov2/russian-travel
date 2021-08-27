@@ -13,6 +13,20 @@
   }
 
 
+  .place{
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+  }
+  .place__article{
+    font-size: 16px;
+  }
+
+
+
+
+
+
   .cover__title{
     font-size: 32px;
     line-height: 1.09;   
@@ -33,14 +47,6 @@ gap: 48px;
 
 
 
-.place{
-  display: flex;
-  flex-direction: column;
-  gap: 32px;
-}
-.place__article{
-  font-size: 16px;
-}
 
 
 
