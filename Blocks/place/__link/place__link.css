@@ -1,4 +1,10 @@
-.places__link{
+.place__link{
   color: white;
+  font-size: 18px;
+  line-height: 1.22;
+  transition: .5s;
   
+}
+.place__link:hover{
+opacity: .5;
 }

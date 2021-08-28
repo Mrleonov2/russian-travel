@@ -1,0 +1,9 @@
+.root__section_grid_metric{
+  max-width: 92%;
+  
+}
+@media screen and (max-width:425px){
+  .root__section_grid_metric{
+    max-width: 90%;
+  }
+}

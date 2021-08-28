@@ -3,4 +3,19 @@
   flex-flow: row nowrap;
   gap: 18px;
 
+
 }
+
+@media screen and (max-width:720px){
+  .footer__links{
+    flex-direction: column;
+  }
+}
+@media screen and (max-width:425px){
+  .footer__links{
+    gap: 32px;
+  }
+}
+
+
+

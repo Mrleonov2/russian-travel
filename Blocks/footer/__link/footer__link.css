@@ -8,3 +8,9 @@ transition: 0.5s;
 .footer__link:hover{
 opacity: .5;
 }
+@media screen and (width:425px) {
+  .footer__link{
+  font-size: 18px;
+  line-height:1;
+}
+}
