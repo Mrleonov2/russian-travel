@@ -1,13 +1,13 @@
-.root__section_margins_top-bottom {
+.root_section_margins_top-bottom {
   margin: 92px auto;
 }
 @media screen and (max-width: 768px) {
-  .root__section_margins_top-bottom {
+  .root_section_margins_top-bottom {
     margin: 88px auto;
   }
 }
 @media screen and (max-width: 425px) {
-  .root__section_margins_top-bottom {
+  .root_section_margins_top-bottom {
     margin: 64px auto;
   }
 }
