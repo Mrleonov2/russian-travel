@@ -1,7 +1,5 @@
 .cover{
-  background-image:url('../../../images/cover-trains.jpg');
-  background-position: center;
-  background-size: cover;
+  background:url('../../images/cover-trains.jpg') center/cover;
   max-width: 1184px;
   height: 63vw;
 
