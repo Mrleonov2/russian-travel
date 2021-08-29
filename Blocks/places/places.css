@@ -1,13 +1,13 @@
-.places{
+.places {
   max-width: 984px;
 }
-@media screen and (max-width:1024px){
-  .places{
+@media screen and (max-width: 1024px) {
+  .places {
     max-width: 92%;
+  }
 }
-}
-@media screen and (max-width:425px){
-  .places{
+@media screen and (max-width: 425px) {
+  .places {
     max-width: 400px;
-}
+  }
 }

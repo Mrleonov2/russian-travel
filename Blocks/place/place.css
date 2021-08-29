@@ -1,27 +1,25 @@
-.place{
+.place {
   display: grid;
   margin: 80px 0 0;
   gap: 48px 40px;
 }
-@media screen and (max-width:1024px){
-  .place{
+@media screen and (max-width: 1024px) {
+  .place {
     gap: 48px 32px;
   }
 }
-@media screen and (max-width:768px){
-  .place{
+@media screen and (max-width: 768px) {
+  .place {
     margin: 72px 0 0;
     gap: 48px 28px;
   }
 }
 
-
-@media screen and (max-width:640px){
-  .place{
+@media screen and (max-width: 640px) {
+  .place {
     display: flex;
     flex-direction: column;
     margin: 50px 0 0;
     gap: 32px;
   }
 }
-

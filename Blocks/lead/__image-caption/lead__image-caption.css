@@ -4,5 +4,14 @@ text-align: left;
 font-size: 10px;
 line-height: 1.4;
 text-transform: uppercase;
-align-self: flex-start
+align-self: flex-start;
+}
+@media screen and (max-width:928px){
+  .lead__image-caption{
+    margin-left: 4%;
+  }
+  
+  
+}
+  
 }
