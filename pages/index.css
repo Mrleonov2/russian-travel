@@ -3,7 +3,7 @@
 @import url('../fonts/InterWeb/inter.css');
 @import url('../Blocks/root/root.css');
 @import url('../Blocks/root/_section/root_section_margin_auto.css');
-@import url('../Blocks/root/_section/root_section_header_metric.css');
+@import url('../Blocks/root/_section/root_section_header.css');
 @import url('../Blocks/root/_section/root_section_margins_top-bottom.css');
 @import url('../Blocks/header/header.css');
 @import url('../Blocks/header/__logo/header__logo.css');
@@ -20,7 +20,7 @@
 @import url('../Blocks/intro/__title/intro__title.css');
 @import url('../Blocks/intro/__text/intro__text.css');
 @import url('../Blocks/intro/__list/intro__list.css');
-@import url('../Blocks/root/_section/root__section_grid_metric.css');
+@import url('../Blocks/root/_section/root_section_grid.css');
 @import url('../Blocks/photo-grid/photo-grid.css');
 @import url('../Blocks/photo-grid/__item/photo-grid__item.css');
 @import url('../Blocks/places/places.css');
@@ -37,7 +37,7 @@
 @import url('../Blocks/cover/__subtitle/cover__subtitle.css');
 @import url('../Blocks/cover/__overlay/cover__overlay.css');
 @import url('../Blocks/footer/footer.css');
-@import url('../Blocks/root/_section/root_section_footer_metric.css');
+@import url('../Blocks/root/_section/root_section_footer.css');
 @import url('../Blocks/footer/__link/footer__link.css');
 @import url('../Blocks/footer/__links/footer__links.css');
 @import url('../Blocks/footer/__copyright/footer__copyright.css');

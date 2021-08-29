@@ -1,8 +1,8 @@
-.root_section_grid_metric {
+.root_section_grid{
   max-width: 92%;
 }
 @media screen and (max-width: 425px) {
-  .root_section_grid_metric {
+  .root_section_grid{
     max-width: 90%;
   }
 }
