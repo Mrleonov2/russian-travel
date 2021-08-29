@@ -1,7 +1,7 @@
 .page{
   background: #2A2C2F;
   max-width: 100vw;
-  font-family: 'Inter';
+  font-family: 'Inter', sans;
   color: rgb(255, 255, 255);
   -webkit-font-smoothing: antialiased;
 }
