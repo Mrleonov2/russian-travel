@@ -1,8 +1,8 @@
-.root__section-grid{
+.content__grid{
   max-width: 92%;
 }
 @media screen and (max-width: 425px) {
-  .root__section-grid{
+  .content__grid{
     max-width: 90%;
   }
 }
