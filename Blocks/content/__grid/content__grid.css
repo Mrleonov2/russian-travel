@@ -1,8 +1,8 @@
-.content__grid{
-  max-width: 92%;
+.content__grid {
+  max-width: 1184px;
 }
-@media screen and (max-width: 425px) {
-  .content__grid{
+@media screen and (max-width: 1280px) {
+  .content__grid {
     max-width: 90%;
   }
 }

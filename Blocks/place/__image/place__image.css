@@ -1,9 +1,6 @@
-.place__image{
-object-fit: cover;
-width: 100%;
-grid-row: 2/4;
-grid-column: 1/2;
+.place__image {
+  object-fit: cover;
+  width: 100%;
+  grid-row: 2/3;
+  grid-column: 1/2;
 }
-
-
-

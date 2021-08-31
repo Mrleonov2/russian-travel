@@ -1,4 +1,20 @@
 .root__header {
   margin: 28px auto 0;
-  max-width: 90%;
+  max-width: 1184px;
 }
+@media screen and (max-width: 1280px) {
+  .root__header {
+    padding: 0 48px;
+  }
+}
+@media screen and (max-width: 768px) {
+  .root__header {
+    padding: 0 24px;
+  }
+}
+@media screen and (max-width: 425px) {
+  .root__header {
+    padding: 0 16px;
+  }
+}
+
