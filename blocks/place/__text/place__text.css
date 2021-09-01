@@ -2,6 +2,6 @@
   margin: 0;
   padding-bottom: 26px;
 }
-.place__text:nth-of-type(2n) {
+.place__text:last-of-type {
   padding-bottom: 0;
 }
