@@ -1,14 +1,17 @@
-.place__article{
+.place__article {
   grid-row: 2/3;
   grid-column: 2/3;
   margin: 0;
   font-size: 18px;
   line-height: 1.63;
-  
 }
-@media screen and (max-width: 425px){
-  .place__article{
+@media screen and (max-width: 768px) {
+  .place__article {
     font-size: 16px;
+  }
+}
+@media screen and (max-width: 425px) {
+  .place__article {
     padding: 0 16px;
   }
 }

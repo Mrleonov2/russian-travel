@@ -5,15 +5,15 @@
   line-height: 1.06;
   font-weight: 900;
 }
-@media screen and (max-width: 720px) {
+@media screen and (max-width: 768px) {
   .cover__title {
-    font-size: 60px;
+    font-size: 72px;
     width: auto;
   }
 }
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 625px) {
   .cover__title {
-    font-size: 48px;
+    font-size: 52px;
   }
 }
 @media screen and (max-width: 525px) {

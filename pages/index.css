@@ -1,5 +1,5 @@
-@import url('../fonts/InterWeb/inter.css');
 @import url('../vendor/normalize.css');
+@import url('../fonts/InterWeb/inter.css');
 @import url('../blocks/page/page.css');
 @import url('../blocks/root/root.css');
 @import url('../blocks/content/__m-auto/content__m-auto.css');
@@ -22,6 +22,7 @@
 @import url('../blocks/intro/__text/intro__text.css');
 @import url('../blocks/intro/__list/intro__list.css');
 @import url('../blocks/intro/__list-item/intro__list-item.css');
+@import url('../blocks/intro/__string/intro__string.css');
 @import url('../blocks/content/__grid/content__grid.css');
 @import url('../blocks/photo-grid/photo-grid.css');
 @import url('../blocks/photo-grid/__item/photo-grid__item.css');
